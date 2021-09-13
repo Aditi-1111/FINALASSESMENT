@@ -9,8 +9,10 @@ So here we have created 4 models or databases named Quiz, Question, Answer, and 
 
 It is possible to add the options and tick the correct option. Similarly in the Answer model question is a foreign key all the options are saved with their Boolean values and with respect to the particular question. Finally, in the marks of the user model the name of the user, the user’s marks, and the name of the quiz given by user is saved.
 
-Admin can add a new quiz
+When a super user is created using create superuser command in the prompt an Admin is made.
 
-Add new Question and delete question
+Admin can add a new quiz.
+
+Add new Question and delete question.
 
 
