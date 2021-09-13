@@ -3,7 +3,20 @@
 1. Project Prerequisites :
 This Django Quiz App requires a good knowledge of html, css, javascript, jQuery, bootstrap, and offcourse Python Django Framework. Some basic knowledge of javascript, ajax, and jQuery is very important.
 
-2.Project description :
+2.Tech Stack: 
+FRONTEND- 
+
+HTML
+CSS
+BOOTSTRAP
+
+BACKEND-
+
+PYTHON DJANGO
+SQLITE (DATABASE)
+
+
+3.Project description :
 
 So here we have created 4 models or databases named Quiz, Question, Answer, and marks_of_user. In the Quiz model, the details related to the quiz is added like the name of the quiz etc. In the Question model as the quiz is the foreign key, it is possible to add a question with respect to the quiz we want.
 
@@ -14,5 +27,12 @@ When a super user is created using create superuser command in the prompt an Adm
 Admin can add a new quiz.
 
 Add new Question and delete question.
+
+
+4. Project Set up details:
+
+Insatllation of Python , Anaconda prompt,  Django framework, chrome or any other browser, Text editor like atom or notepad
+
+
 
 
