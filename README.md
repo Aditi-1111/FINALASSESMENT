@@ -1,7 +1,7 @@
 # FINALASSESMENT
 
 1. Project Prerequisites :
-This Django Quiz App requires a good knowledge of html, css, javascript, jQuery, bootstrap, and offcourse Python Django Framework. Some basic knowledge of javascript, ajax, and jQuery is very important.
+This Django Quiz App requires a good knowledge of html, css, javascript, bootstrap, and  Python Django Framework. 
 
 2.Tech Stack: 
 FRONTEND- 
