@@ -35,4 +35,4 @@ Insatllation of Python , Anaconda prompt,  Django framework, chrome or any other
 
 
 
-
+--------code available in master branch----------
