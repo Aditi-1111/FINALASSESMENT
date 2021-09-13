@@ -28,6 +28,8 @@ Admin can add a new quiz.
 
 Add new Question and delete question.
 
+If a student want to attempt the quiz designed by the admin he/she has to signup and then login.
+
 
 4. Project Set up details:
 
