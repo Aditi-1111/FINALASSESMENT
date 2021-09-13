@@ -2,7 +2,8 @@
 
 
 DEMO VIDEO - https://drive.google.com/file/d/1nkB1xU4Igf3q_IHXjxtAhQMaQtBEtRk9/view?usp=sharing
-#1. Project Prerequisites :
+
+1. Project Prerequisites :
 This Django Quiz App requires a good knowledge of html, css, javascript, bootstrap, and  Python Django Framework. 
 
 2.Tech Stack: 
